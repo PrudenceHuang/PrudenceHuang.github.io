@@ -11,21 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in South China Normal University, Guangzhou, China, 2017
+* Mphil. in Sun Yat-sen University, Guangzhou, China, 2020
+* Ph.D in The Chinese University of Hong Kong, Hong Kong (SAR), China, 2023
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Consultant, MP Zhongda Consulting Group, Ltd., Guangzhou,CHN
+Project: Developmental Strategy Planning of High-Tech ‘Innovation Valley’ in 
+Guangzhou, Guangzhou Municipal Development and Reform Commission,
+https://www.mpgroup.cn/gov_chanyefazhan.html 
   
 Skills
 ======
